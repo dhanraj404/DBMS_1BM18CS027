@@ -1,5 +1,5 @@
-create database COLLEGE_database;
-use COLLEGE_database;
+create database COLLEGE_db;
+use COLLEGE_db;
 
 CREATE TABLE student (
     usn VARCHAR(30),
